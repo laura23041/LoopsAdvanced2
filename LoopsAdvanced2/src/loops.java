@@ -6,7 +6,7 @@ public class loops {
 		Scanner scanner = new Scanner(System.in);
 		
 		
-        String answer = "Emma";
+        String answer = "Laura";
         int guessCount = 0;
         
 
